@@ -13,7 +13,7 @@ The font is only optimized for myself, and I am exploring if others would find t
 
 Please post an Issue if you have any feedback. 
 
-
+The .tff file is in this repo, download and install onto your computer. In order to use for a browser, any font changing extension should work. 
 
 <p align="center">
   <img src="https://i.imgur.com/X1RapNc.png">
