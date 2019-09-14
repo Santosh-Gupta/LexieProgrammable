@@ -15,7 +15,37 @@ Please post an Issue if you have any feedback.
 
 The .ttf file is in this repo, that you can download and install onto your computer. In order to use in a browser, any font changing extension should work. 
 
-https://snipboard.io/svTUXY.jpg
+<p align="center">
+  <img src="https://snipboard.io/svTUXY.jpg">
+</p>
+
+<p align="center">
+  <img src="https://snipboard.io/jlima4.jpg">
+</p>
+
+<p align="center">
+  <img src="https://snipboard.io/2UdBCx.jpg">
+</p>
+
+<p align="center">
+  <img src="https://snipboard.io/Hpr4cQ.jpg">
+</p>
+
+<p align="center">
+  <img src="https://snipboard.io/TOXzFL.jpg">
+</p>
+
+<p align="center">
+  <img src="https://snipboard.io/FBUeZT.jpg">
+</p>
+
+<p align="center">
+  <img src="https://snipboard.io/KIZ3Hu.jpg">
+</p>
+
+
+
+-----
 
 <p align="center">
   <img src="https://i.imgur.com/X1RapNc.png">
