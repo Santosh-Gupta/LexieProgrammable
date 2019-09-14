@@ -19,7 +19,7 @@ The .ttf file is in this repo, that you can download and install onto your compu
 -----
 
 <p align="center">
-  <img src="https://i.imgur.com/uArLTHM.png">
+  <img src="https://i.imgur.com/i4UobDl.png">
 </p>
 
 <p align="center">
