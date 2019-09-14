@@ -18,3 +18,24 @@ Please post an Issue if you have any feedback.
 <p align="center">
   <img src="https://i.imgur.com/X1RapNc.png">
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/cDOU8aK.png">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/D5FZoHx.png">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/IxR2SV3.png">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/L0sso9V.png">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/EP2o3Rn.png">
+</p>
+
