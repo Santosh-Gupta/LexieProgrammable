@@ -15,6 +15,13 @@ Please post an Issue if you have any feedback.
 
 The .ttf file is in this repo, that you can download and install onto your computer. In order to use in a browser, any font changing extension should work. 
 
+
+-----
+
+<p align="center">
+  <img src="https://i.imgur.com/X1RapNc.png">
+</p>
+
 <p align="center">
   <img src="https://snipboard.io/svTUXY.jpg">
 </p>
@@ -43,13 +50,6 @@ The .ttf file is in this repo, that you can download and install onto your compu
   <img src="https://snipboard.io/KIZ3Hu.jpg">
 </p>
 
-
-
------
-
-<p align="center">
-  <img src="https://i.imgur.com/X1RapNc.png">
-</p>
 
 <p align="center">
   <img src="https://i.imgur.com/cDOU8aK.png">
