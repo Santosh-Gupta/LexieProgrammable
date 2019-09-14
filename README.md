@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/HK5ba4e.png">
+  <img src="https://i.imgur.com/swsx6aC.png">
 </p>
 
 # LexieProgrammable
