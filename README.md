@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/swsx6aC.png">
 </p>
 
-# LexieProgrammable
+# Lexie Programmable
 A programming font for those dyslexia (under development) 
 
 This is a programming font I developed for myself. I used Lexie Readable [ https://www.k-type.com/fonts/lexie-readable/ ] as the base and made alterations to take into account programming readability. 
