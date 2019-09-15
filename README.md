@@ -73,4 +73,6 @@ The .ttf file is in this repo, that you can download and install onto your compu
 
 ### Licencing 
 
-The base font from which this is adapted from 
+The base font from which this is adapted from Lexie Readable from k-type, which has it's own specifications regarding licensing 
+
+https://www.k-type.com/licences/
