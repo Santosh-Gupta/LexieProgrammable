@@ -7,7 +7,7 @@
 # Lexie Programmable
 A programming font for those dyslexia (under development) 
 
-This is a programming font I developed for myself. I used Lexie Readable [ https://www.k-type.com/fonts/lexie-readable/ ] as the base and made alterations to take into account programming readability. 
+This is a programming font I developed for myself. I used Lexie Readable [ https://www.k-type.com/lexie-readable/ ] as the base and made alterations to take into account programming readability. 
 
 The font is only optimized for myself, and I am exploring if others would find this font useful, and/or if they can give feedback that would make this font useful to them. 
 
@@ -71,3 +71,6 @@ The .ttf file is in this repo, that you can download and install onto your compu
   <img src="https://i.imgur.com/EP2o3Rn.png">
 </p>
 
+### Licencing 
+
+The base font from which this is adapted from 
