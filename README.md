@@ -7,13 +7,20 @@
 # Lexie Programmable
 A programming font for those dyslexia (under development) 
 
-This is a programming font I developed for myself. I used Lexie Readable [ https://www.k-type.com/lexie-readable/ ] as the base and made alterations to take into account programming readability. 
+This is a programming font I developed for myself. The font is based on Lexie Readable [ https://www.k-type.com/lexie-readable/ ] 
 
 The font is only optimized for myself, and I am exploring if others would find this font useful, and/or if they can give feedback that would make this font useful to them. 
 
 Please post an Issue if you have any feedback. 
 
-The .ttf file is in this repo, that you can download and install onto your computer. In order to use in a browser, any font changing extension should work. 
+UPDATE:
+
+I have recieved a lot of great feedback here
+
+https://www.reddit.com/r/programming/comments/d49ra3/lexie_programmable_i_made_a_programming_font_for/
+https://www.reddit.com/r/learnprogramming/comments/d49gvs/lexie_programmable_i_made_a_programming_font_for/
+
+However, due to licencing issues, I can not distribute the font to others. I am hoping to create a new dyslexic font based on Andika [ https://software.sil.org/andika/ ] whose open font licence allows for distribution. I think Andika is a fantastic candidate, and I am exciting for this project, but due to other ongoing projects, I won't be able to start anytime soon. 
 
 
 -----
