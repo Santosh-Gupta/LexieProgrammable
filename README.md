@@ -20,7 +20,7 @@ I have recieved a lot of great feedback here
 https://www.reddit.com/r/programming/comments/d49ra3/lexie_programmable_i_made_a_programming_font_for/
 https://www.reddit.com/r/learnprogramming/comments/d49gvs/lexie_programmable_i_made_a_programming_font_for/
 
-However, due to licencing issues, I can not distribute the font to others. I am hoping to create a new dyslexic font based on Andika [ https://software.sil.org/andika/ ] whose open font licence allows for distribution. I think Andika is a fantastic candidate, and I am excited for this project, but due to other ongoing projects, I won't be able to start anytime soon. 
+However, due to licencing issues, I can not distribute the font to others. I am hoping to see if there is a way to purchase the rights to do this. I am also hoping to create a new dyslexic font based on Andika [ https://software.sil.org/andika/ ] whose open font licence allows for distribution. I think Andika is a fantastic candidate, and I am excited for this project, but due to other ongoing projects, I won't be able to start anytime soon. 
 
 
 -----
