@@ -11,7 +11,7 @@ This is a programming font I developed for myself, and is based on Lexie Readabl
 
 # My Story
 
-I tend to have a difficult time coding because of my dyslexia; coding involves writing precise statements, and this is very hard for me with the friction I experience in reading normal fonts. I remember when I took my very first introduction to programming course, while I immensely enjoyed coding whenever my dyslexia wasn't an issue, the time spent on syntactical error discouraged me from persuing computer science. It wasn't until 2017 when I strongly considered a career which heavily involved programming again, due to the advanced is machine learning. 
+I tend to have a difficult time coding because of my dyslexia; coding involves writing precise statements, and this is very hard for me with the friction I experience in reading normal fonts. I remember when I took my very first introduction to programming course, while I immensely enjoyed coding whenever my dyslexia wasn't an issue, the time spent on syntactical errors discouraged me from persuing computer science. It wasn't until 2017 when I strongly considered a career which heavily involved programming again, due to the advancements is machine learning. 
 
 I always have been a bit obsessed with information retrieval for scientific texts during my work as a biomedical researcher. Due to variations of keywords and phrasing in chem/bio, it is very difficult to query about a particular concept you have in mind. So I dreamed about search techniques that were invarient to a strict keyword or phrase, some sort of algorithm that could infer the meaning behind your query, and search through that. 
 
