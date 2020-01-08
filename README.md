@@ -9,20 +9,6 @@ A programming font for those dyslexia (under development)
 
 This is a programming font I developed for myself, and is based on Lexie Readable [ https://www.k-type.com/lexie-readable/ ] . 
 
-# My Story
-
-I tend to have a difficult time coding because of my dyslexia; coding involves writing precise statements, and this is very hard for me with the friction I experience in reading normal fonts. I remember when I took my very first introduction to programming course, while I immensely enjoyed coding whenever my dyslexia wasn't an issue, the time spent on syntactical errors discouraged me from persuing computer science. It wasn't until 2017 when I strongly considered a career which heavily involved programming again, due to the advancements is machine learning. 
-
-I always have been a bit obsessed with information retrieval for scientific texts during my work as a biomedical researcher. Due to variations of keywords and phrasing in chem/bio, it is very difficult to query about a particular concept you have in mind. So I dreamed about search techniques that were invarient to a strict keyword or phrase; some sort of algorithm that could infer the meaning behind your query, and search through that. 
-
-In 2017, I had learned that such algorithms are being developed (word embedding models, transformer models; vector representations of words and text), and I felt immediatly that I wanted to persue NLP/Machine Learning as a new career path. After some initial self study, it was time to start learning Tensorflow/Python, but the issue of my friction with programming came up again. I had a very hard time with coding again, but I really Really wanted to learn NLP. I was determined to find a way. 
-
-I had learned about specific fonts for dsylexia, but none seemed to help me too much, so I decided to make my own. I analyzed what letter shapes would allow me to read the fastest and produced them. I spent most of my time over two months on it, and then started using it. The effect of this font on me was immense. Its hard to explain, but it felt like for the very first time in my life, I was interacting directly with the programming language. 
-
-I remember the series of decisions I made to create this font in late 2017. Should I spend the time learning how to use font software? Should I spend the time experimenting and analyzing different letter shapes? I remember a few days in, when I realized how significant of a time commitment this would be. I remember contemplating how the path to a career in machine learning is already going to be very long, and if I wanted to tack on an additional month or two on top of that. 
-
-There were several times when I decided not to do it, go back to coding in Pytorch/Tensorflow, feeling the friction, and recontemplating my decision. I eventually decided to spend the time needed for the font. It was one of the best decisions I ever made, and I almost decided not to do it. 
-
 # Progress
 
 The font is only optimized for myself, and I am exploring if others would find this font useful, and/or if they can give feedback that would make this font useful to them. 
@@ -94,6 +80,20 @@ For now, the final thing I want to say is that I encourage font designers to not
 <p align="center">
   <img src="https://i.imgur.com/EP2o3Rn.png">
 </p>
+
+# My Story
+
+I tend to have a difficult time coding because of my dyslexia; coding involves writing precise statements, and this is very hard for me with the friction I experience in reading normal fonts. I remember when I took my very first introduction to programming course, while I immensely enjoyed coding whenever my dyslexia wasn't an issue, the time spent on syntactical errors discouraged me from persuing computer science. It wasn't until 2017 when I strongly considered a career which heavily involved programming again, due to the advancements is machine learning. 
+
+I always have been a bit obsessed with information retrieval for scientific texts during my work as a biomedical researcher. Due to variations of keywords and phrasing in chem/bio, it is very difficult to query about a particular concept you have in mind. So I dreamed about search techniques that were invarient to a strict keyword or phrase; some sort of algorithm that could infer the meaning behind your query, and search through that. 
+
+In 2017, I had learned that such algorithms are being developed (word embedding models, transformer models; vector representations of words and text), and I felt immediatly that I wanted to persue NLP/Machine Learning as a new career path. After some initial self study, it was time to start learning Tensorflow/Python, but the issue of my friction with programming came up again. I had a very hard time with coding again, but I really Really wanted to learn NLP. I was determined to find a way. 
+
+I had learned about specific fonts for dsylexia, but none seemed to help me too much, so I decided to make my own. I analyzed what letter shapes would allow me to read the fastest and produced them. I spent most of my time over two months on it, and then started using it. The effect of this font on me was immense. Its hard to explain, but it felt like for the very first time in my life, I was interacting directly with the programming language. 
+
+I remember the series of decisions I made to create this font in late 2017. Should I spend the time learning how to use font software? Should I spend the time experimenting and analyzing different letter shapes? I remember a few days in, when I realized how significant of a time commitment this would be. I remember contemplating how the path to a career in machine learning is already going to be very long, and if I wanted to tack on an additional month or two on top of that. 
+
+There were several times when I decided not to do it, go back to coding in Pytorch/Tensorflow, feeling the friction, and recontemplating my decision. I eventually decided to spend the time needed for the font. It was one of the best decisions I ever made, and I almost decided not to do it. 
 
 ### Licencing 
 
